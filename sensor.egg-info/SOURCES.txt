@@ -1,5 +1,10 @@
 setup.py
 Sensor/__init__.py
+sensor/Exception.py
+sensor/Logger.py
+sensor/__init__.py
+sensor/config.py
+sensor/utils.py
 sensor.egg-info/PKG-INFO
 sensor.egg-info/SOURCES.txt
 sensor.egg-info/dependency_links.txt

@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 
 from sensor.utils.main_utils import read_yaml_file  
 
-from sensor.constant.training_pipeline import SCHEMA_FILE_PATH
+from sensor.constants.training_pipeline import SCHEMA_FILE_PATH
 
 
 class DataIngestion:

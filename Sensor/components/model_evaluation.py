@@ -13,7 +13,7 @@ from sensor.ml.model.estimator import SensorModel
 
 from sensor.utils.main_utils import save_object,load_object,write_yaml_file
 from sensor.ml.model.estimator import ModelResolver
-from sensor.constant.training_pipeline import TARGET_COLUMN
+from sensor.constants.training_pipeline import TARGET_COLUMN
 from sensor.ml.model.estimator import TargetValueMapping
 import pandas  as  pd
 
